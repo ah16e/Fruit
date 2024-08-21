@@ -10,7 +10,7 @@ import { AnimatePresence } from "framer-motion";
 const MenusData = [
   {
     id: 1,
-    title: "Fresh Red Apples",
+    title: "Fresh Cherries",
     link: "/",
     price: "$2.00",
     img:logo1,
@@ -18,7 +18,7 @@ const MenusData = [
   },
   {
     id: 2,
-    title: "Fresh Oranges",
+    title: "Fresh Avocado",
     link: "/",
     price: "$4.00",
     img:logo2,
@@ -27,7 +27,7 @@ const MenusData = [
   },
   {
     id: 3,
-    title: "Fresh Avocado",
+    title: "Fresh Red Apples",
     link: "/",
     price: "$4.00",
     img:logo3,
@@ -36,7 +36,7 @@ const MenusData = [
   },
   {
     id: 4,
-    title: "Fresh Cherries",
+    title: "Fresh Oranges",
     link: "/",
     price: "$3.00",
     img:logo4,
